@@ -1,16 +1,9 @@
-# app1
+# Kantin Bu Sari
 
-A new Flutter project.
+Aplikasi Flutter sederhana untuk memesan menu kantin. 5 halaman, masing-masing memakai minimal 5 widget berbeda.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Menu: AppBar, TextField, ChoiceChip, ListView, Card, ListTile, Badge, FAB
+- Detail: Container, Chip, Divider, TextField, IconButton, FilledButton
+- Keranjang: Dismissible, Card, ListTile, IconButton, Divider, FilledButton
+- Pesan: Form, TextFormField, RadioListTile, Dropdown, SwitchListTile, FilledButton
+- Struk: Icon, Card, Chip, Divider, Row/Column, FilledButton
